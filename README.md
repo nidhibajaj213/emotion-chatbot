@@ -27,13 +27,6 @@ Run locally to chat with the bot, and it will:
 
 ---
 
-## 📂 Project Structure
-
-emotion-chatbot/
-│
-├── app.py # Main Streamlit application
-├── requirements.txt # Dependencies for smooth local run
-└── README.md # Project documentation
 
       
 ---
@@ -53,7 +46,7 @@ python -m venv botenv
 source botenv/bin/activate      # On Windows: botenv\Scripts\activate
 ````
 
-
+---
 ### 3️⃣ Install dependencies
 
 ```bash
@@ -72,6 +65,7 @@ The app will open in your default browser at:
 
 http://localhost:8501
 ````
+---
 ###🧩 Requirements
 All dependencies are listed in requirements.txt.
 
@@ -94,7 +88,7 @@ nltk
 pandas
 
 numpy
-
+---
 ###📊 Model Details
 🤖 Chatbot
 Model: microsoft/DialoGPT-medium
@@ -104,16 +98,16 @@ Model: j-hartmann/emotion-english-distilroberta-base
 
 😊 Sentiment Analysis
 Library: TextBlob
-
+---
 🛠️ Customization
 You can:
 ✅ Swap out DialoGPT with your preferred conversational model.
 ✅ Use multilingual/domain-specific models for emotion detection.
 
-
+---
 ✍️ Author
 👩‍💻 Nidhi Bajaj
-
+---
 📜 License
 This project is open-source under the MIT License.
 
