@@ -1,11 +1,9 @@
 streamlit==1.45.0
 transformers==4.41.2
-torch==2.3.0
-xformers==0.0.26  # Optional, for efficient attention
-textblob==0.18.0
-pyngrok==7.1.6
-numpy==1.26.4     # Compatible, avoids NumPy 2.x issues with PyTorch
+torch==2.7.1
+textblob==0.17.1
+scipy==1.13.0
+numpy==1.26.4
 pandas==2.2.2
-scikit-learn==1.4.2
-protobuf==4.25.3  # Compatible with Streamlit
-
+scikit-learn==1.5.0
+nltk==3.8.1
