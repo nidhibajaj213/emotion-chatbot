@@ -66,7 +66,7 @@ The app will open in your default browser at:
 http://localhost:8501
 ````
 ---
-###🧩 Requirements
+##🧩 Requirements
 All dependencies are listed in requirements.txt.
 
 Key libraries used:
@@ -88,14 +88,14 @@ nltk
 pandas
 
 numpy
+
 ---
-###📊 Model Details
+
+##📊 Model Details
 🤖 Chatbot
 Model: microsoft/DialoGPT-medium
-
 😄 Emotion Detection
 Model: j-hartmann/emotion-english-distilroberta-base
-
 😊 Sentiment Analysis
 Library: TextBlob
 ---
