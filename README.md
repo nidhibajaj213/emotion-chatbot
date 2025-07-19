@@ -91,23 +91,39 @@ numpy
 
 ---
 
-##📊 Model Details
-🤖 Chatbot
-Model: microsoft/DialoGPT-medium
-😄 Emotion Detection
-Model: j-hartmann/emotion-english-distilroberta-base
-😊 Sentiment Analysis
-Library: TextBlob
+## 📊 Model Details
+
+### 🤖 Chatbot
+**Model:** [microsoft/DialoGPT-medium](https://huggingface.co/microsoft/DialoGPT-medium)
+
+### 😄 Emotion Detection
+**Model:** [j-hartmann/emotion-english-distilroberta-base](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base)
+
+### 😊 Sentiment Analysis
+**Library:** [TextBlob](https://textblob.readthedocs.io/en/dev/)
+
 ---
-🛠️ Customization
+
+## 🛠️ Customization
+
 You can:
-✅ Swap out DialoGPT with your preferred conversational model.
-✅ Use multilingual/domain-specific models for emotion detection.
+
+✅ Swap out DialoGPT with your preferred conversational model.  
+✅ Use multilingual or domain-specific models for emotion detection.  
+✅ Extend the Streamlit interface with charts, timelines, or chat history analysis as needed.
 
 ---
-✍️ Author
-👩‍💻 Nidhi Bajaj
----
-📜 License
-This project is open-source under the MIT License.
 
+## ✍️ Author
+
+👩‍💻 **Nidhi Bajaj**
+
+Pre-final year B.Tech CSE (AI/ML) student
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**.
+
+---
